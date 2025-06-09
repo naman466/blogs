@@ -2,6 +2,7 @@
 title: v1.0.0 Released!
 summary: Hugo v1.0.0 released. Download now and follow the guide to get started in 5 minutes!
 date: 2023-01-01
+math: true
 authors:
   - admin
 tags:
@@ -25,6 +26,13 @@ Thank you to everyone who contributed to this release!
 ## New Features
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae fringilla sem. Integer mattis dictum augue non auctor. Proin quis porttitor enim. Praesent vulputate arcu egestas scelerisque condimentum. Vivamus elit risus, suscipit et enim et, viverra molestie elit. Nulla ullamcorper nisl vel nisi pellentesque, id feugiat risus interdum. Duis consequat ipsum elit. Aenean hendrerit diam ipsum, a convallis magna congue et. Sed ex erat, pretium et ante id, malesuada luctus nibh. Nunc nec consectetur elit.
+
+The Pythagorean theorem: $a^2 + b^2 = c^2$
+
+$$
+\int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2}
+$$
+
 
 ## Bug Fixes
 
